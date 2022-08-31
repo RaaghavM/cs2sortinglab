@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SortMonster
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ copy
+comment2.target=void\ testSorted(java.lang.Comparable[],\ java.lang.Comparable[])
+comment3.params=a
+comment3.target=void\ testSorted(java.lang.Comparable[])
+comment4.params=a\ b
+comment4.target=boolean\ sameElements(java.lang.Comparable[],\ java.lang.Comparable[])
+comment5.params=a
+comment5.target=java.lang.Comparable[]\ copy(java.lang.Comparable[])
+comment6.params=sort
+comment6.target=boolean\ menu(java.lang.String)
+comment7.params=result
+comment7.target=void\ test(boolean)
+comment8.params=length\ max
+comment8.target=java.lang.Comparable[]\ randomIntegers(int,\ int)
+comment9.params=length\ max
+comment9.target=java.lang.Comparable[]\ randomLocations(int,\ int)
+numComments=10

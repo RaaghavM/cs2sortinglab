@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=length\ max
+comment1.target=java.lang.Comparable[]\ randomIntegers(int,\ int)
+comment2.params=length\ max
+comment2.target=java.lang.Comparable[]\ randomLocations(int,\ int)
+comment3.params=a
+comment3.target=java.lang.String\ toString(java.lang.Object[])
+numComments=4

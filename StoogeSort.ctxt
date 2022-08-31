@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StoogeSort
+comment1.params=a
+comment1.target=void\ sort(java.lang.Comparable[])
+comment2.params=a\ start\ end
+comment2.target=void\ sort(java.lang.Comparable[],\ int,\ int)
+numComments=3
